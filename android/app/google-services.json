@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215188652815",
+    "project_id": "hasarharitasi",
+    "storage_bucket": "hasarharitasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215188652815:android:0529700b7eb49b1857347a",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAQxXtrfB8kBRKgt3MFndOoCwRPF47LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
